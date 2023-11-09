@@ -6,7 +6,7 @@ Grupos separados: Comisión 23560
 
 Se deberá crear una base de datos llamada “integrador_cac” y crear la siguiente tabla llamada “oradores”:
 
- ![Imagen TP BD](D:\codo_a_codo\java\backEnd\02.tp_integrados_bbdd\Imagen TP BD.PNG)
+ ![Imagen TP BD](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/Imagen%20TP%20BD.PNG)
 
 - Definir los tipos de datos correspondientes
 - Definir la clave primaria correspondiente
