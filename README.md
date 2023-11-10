@@ -6,7 +6,7 @@ Grupos separados: Comisión 23560
 
 Se deberá crear una base de datos llamada “integrador_cac” y crear la siguiente tabla llamada “oradores”:
 
- ![Imagen TP BD](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/Imagen%20TP%20BD.PNG)
+ ![Imagen TP BD](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/img/Imagen%20TP%20BD.PNG)
 
 - Definir los tipos de datos correspondientes
 - Definir la clave primaria correspondiente
@@ -35,9 +35,9 @@ DEFAULT CHARSET=utf8mb4
 COLLATE=utf8mb4_general_ci;
 ```
 
-La obtención de la [estructura](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/desc_oradores.png) de la tabla **oradores** se utiliza la sentencia [DESCRIBE](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/MySQL_statements/desc.sql).
+La obtención de la [estructura](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/img/desc_oradores.png) de la tabla **oradores** se utiliza la sentencia [DESCRIBE](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/MySQL_statements/desc.sql).
 
-![Imagen TP BD](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/desc_oradores.png)
+![Imagen TP BD](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/img/desc_oradores.png)
 
 ```mysql
 DESC ORADORES;
