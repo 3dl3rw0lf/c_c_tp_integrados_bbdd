@@ -1,12 +1,12 @@
-insert
-	into
+INSERT
+	INTO
 	INTEGRADOR_CAC.oradores (id_orador,
 	nombre,
 	apellido,
 	mail,
 	tema,
 	fecha_alta)
-values
+VALUES
  	(7,"Donald D.","Chamberlin","don-cham@sql.com","What is the Structured Query Language","2023-10-28"),	
 	(8,"Raymond F.","Boyce", "ray-boyce@sql.com","What is the Structured Query Language","2023-10-28"),
 	(14,"Michael","Widenius","widenius_m@mariadb.com","The creation of MariaDB Foundation","2023-11-09"),
