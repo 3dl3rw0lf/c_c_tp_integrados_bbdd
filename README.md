@@ -37,6 +37,8 @@ COLLATE=utf8mb4_general_ci;
 
 La obtención de la [estructura](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/desc_oradores.png) de la tabla **oradores** se utiliza la sentencia [DESCRIBE](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/MySQL_statements/desc.sql).
 
+![Imagen TP BD](https://github.com/3dl3rw0lf/c_c_tp_integrados_bbdd/blob/main/desc_oradores.png)
+
 ```mysql
 DESC ORADORES;
 ```
